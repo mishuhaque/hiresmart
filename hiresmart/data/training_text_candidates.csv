@@ -1,0 +1,501 @@
+candidate_id,profile,label
+TRAIN_001,"Candidate Profile: poor detail oriented, weak teamwork, outstanding technical skills, poor adaptability, weak willing to learn",NOT HIRE
+TRAIN_002,"Candidate Profile: weak quick learner, weak leadership, outstanding technical skills, good detail oriented, strong willing to learn",HIRE
+TRAIN_003,"Candidate Profile: reliable communication, good detail oriented, lacking willing to learn, reliable problem solving, strong adaptability",HIRE
+TRAIN_004,"Candidate Profile: lacking willing to learn, excellent problem solving, strong critical thinking, good quick learner, inconsistent task prioritization",HIRE
+TRAIN_005,"Candidate Profile: inconsistent leadership, inconsistent quick learner, strong critical thinking, strong adaptability, excellent task prioritization",HIRE
+TRAIN_006,"Candidate Profile: inconsistent communication, excellent quick learner, outstanding adaptability, poor technical skills, good problem solving",HIRE
+TRAIN_007,"Candidate Profile: lacking quick learner, strong critical thinking, strong problem solving, strong willing to learn, weak creativity",HIRE
+TRAIN_008,"Candidate Profile: weak leadership, good task prioritization, strong problem solving, poor communication, lacking quick learner",HIRE
+TRAIN_009,"Candidate Profile: lacking adaptability, inconsistent technical skills, inconsistent quick learner, strong detail oriented, reliable willing to learn",HIRE
+TRAIN_010,"Candidate Profile: bad communication, excellent detail oriented, excellent critical thinking, lacking task prioritization, poor adaptability",HIRE
+TRAIN_011,"Candidate Profile: poor adaptability, outstanding willing to learn, good technical skills, good quick learner, strong teamwork",HIRE
+TRAIN_012,"Candidate Profile: outstanding quick learner, weak willing to learn, poor task prioritization, weak problem solving, outstanding creativity",NOT HIRE
+TRAIN_013,"Candidate Profile: outstanding leadership, poor critical thinking, excellent quick learner, outstanding adaptability, reliable technical skills",HIRE
+TRAIN_014,"Candidate Profile: weak technical skills, reliable creativity, inconsistent problem solving, good leadership, good task prioritization",NOT HIRE
+TRAIN_015,"Candidate Profile: inconsistent quick learner, reliable willing to learn, good technical skills, outstanding detail oriented, excellent communication",HIRE
+TRAIN_016,"Candidate Profile: bad teamwork, bad leadership, poor problem solving, strong technical skills, weak communication",HIRE
+TRAIN_017,"Candidate Profile: good creativity, outstanding teamwork, outstanding problem solving, bad leadership, strong adaptability",HIRE
+TRAIN_018,"Candidate Profile: good detail oriented, good critical thinking, good problem solving, outstanding task prioritization, bad teamwork",NOT HIRE
+TRAIN_019,"Candidate Profile: outstanding leadership, inconsistent communication, lacking creativity, bad critical thinking, bad technical skills",NOT HIRE
+TRAIN_020,"Candidate Profile: inconsistent leadership, good adaptability, excellent problem solving, reliable task prioritization, lacking detail oriented",HIRE
+TRAIN_021,"Candidate Profile: weak leadership, good willing to learn, good quick learner, inconsistent teamwork, poor communication",NOT HIRE
+TRAIN_022,"Candidate Profile: poor communication, excellent leadership, poor technical skills, inconsistent task prioritization, excellent quick learner",HIRE
+TRAIN_023,"Candidate Profile: good creativity, inconsistent teamwork, lacking task prioritization, good critical thinking, excellent communication",HIRE
+TRAIN_024,"Candidate Profile: inconsistent communication, lacking teamwork, poor willing to learn, bad detail oriented, strong critical thinking",HIRE
+TRAIN_025,"Candidate Profile: poor problem solving, reliable leadership, weak communication, strong task prioritization, good quick learner",HIRE
+TRAIN_026,"Candidate Profile: reliable detail oriented, good communication, strong creativity, outstanding critical thinking, good adaptability",HIRE
+TRAIN_027,"Candidate Profile: outstanding critical thinking, lacking leadership, inconsistent teamwork, good communication, lacking quick learner",NOT HIRE
+TRAIN_028,"Candidate Profile: good critical thinking, excellent creativity, bad communication, weak teamwork, inconsistent problem solving",HIRE
+TRAIN_029,"Candidate Profile: weak quick learner, excellent task prioritization, weak communication, poor teamwork, poor technical skills",HIRE
+TRAIN_030,"Candidate Profile: excellent creativity, outstanding leadership, weak willing to learn, excellent task prioritization, strong critical thinking",HIRE
+TRAIN_031,"Candidate Profile: poor teamwork, bad adaptability, reliable task prioritization, bad creativity, poor problem solving",NOT HIRE
+TRAIN_032,"Candidate Profile: bad technical skills, good willing to learn, reliable teamwork, poor detail oriented, outstanding critical thinking",NOT HIRE
+TRAIN_033,"Candidate Profile: excellent technical skills, lacking willing to learn, outstanding leadership, lacking adaptability, lacking communication",HIRE
+TRAIN_034,"Candidate Profile: outstanding critical thinking, good adaptability, inconsistent task prioritization, strong technical skills, excellent problem solving",HIRE
+TRAIN_035,"Candidate Profile: excellent technical skills, bad critical thinking, excellent problem solving, inconsistent willing to learn, lacking creativity",HIRE
+TRAIN_036,"Candidate Profile: reliable willing to learn, weak detail oriented, lacking adaptability, weak communication, excellent task prioritization",HIRE
+TRAIN_037,"Candidate Profile: good quick learner, strong problem solving, excellent adaptability, weak willing to learn, bad teamwork",HIRE
+TRAIN_038,"Candidate Profile: outstanding quick learner, reliable leadership, bad critical thinking, good task prioritization, poor technical skills",NOT HIRE
+TRAIN_039,"Candidate Profile: excellent teamwork, outstanding task prioritization, weak detail oriented, inconsistent technical skills, weak willing to learn",HIRE
+TRAIN_040,"Candidate Profile: weak task prioritization, bad problem solving, strong technical skills, strong adaptability, outstanding creativity",HIRE
+TRAIN_041,"Candidate Profile: reliable critical thinking, lacking leadership, lacking creativity, outstanding task prioritization, poor adaptability",NOT HIRE
+TRAIN_042,"Candidate Profile: lacking critical thinking, excellent task prioritization, poor creativity, weak detail oriented, reliable leadership",HIRE
+TRAIN_043,"Candidate Profile: bad willing to learn, outstanding task prioritization, bad leadership, poor adaptability, inconsistent communication",NOT HIRE
+TRAIN_044,"Candidate Profile: excellent task prioritization, poor detail oriented, inconsistent creativity, bad problem solving, good willing to learn",HIRE
+TRAIN_045,"Candidate Profile: good adaptability, good communication, lacking willing to learn, excellent leadership, strong teamwork",HIRE
+TRAIN_046,"Candidate Profile: inconsistent critical thinking, reliable quick learner, lacking technical skills, strong detail oriented, outstanding teamwork",HIRE
+TRAIN_047,"Candidate Profile: poor communication, lacking willing to learn, good leadership, inconsistent creativity, bad task prioritization",NOT HIRE
+TRAIN_048,"Candidate Profile: strong communication, bad quick learner, excellent teamwork, excellent problem solving, reliable willing to learn",HIRE
+TRAIN_049,"Candidate Profile: weak critical thinking, bad leadership, bad willing to learn, weak detail oriented, bad teamwork",NOT HIRE
+TRAIN_050,"Candidate Profile: good detail oriented, strong communication, reliable critical thinking, bad willing to learn, outstanding task prioritization",HIRE
+TRAIN_051,"Candidate Profile: good problem solving, excellent quick learner, inconsistent creativity, weak critical thinking, reliable task prioritization",HIRE
+TRAIN_052,"Candidate Profile: inconsistent task prioritization, reliable leadership, excellent technical skills, good detail oriented, inconsistent quick learner",HIRE
+TRAIN_053,"Candidate Profile: weak communication, strong problem solving, lacking willing to learn, outstanding quick learner, poor creativity",HIRE
+TRAIN_054,"Candidate Profile: strong task prioritization, outstanding creativity, poor adaptability, lacking technical skills, bad quick learner",HIRE
+TRAIN_055,"Candidate Profile: inconsistent leadership, reliable quick learner, excellent teamwork, strong detail oriented, outstanding technical skills",HIRE
+TRAIN_056,"Candidate Profile: excellent creativity, strong technical skills, weak task prioritization, outstanding quick learner, poor critical thinking",HIRE
+TRAIN_057,"Candidate Profile: strong communication, reliable detail oriented, strong teamwork, bad creativity, lacking adaptability",HIRE
+TRAIN_058,"Candidate Profile: good critical thinking, lacking quick learner, lacking communication, lacking adaptability, excellent leadership",HIRE
+TRAIN_059,"Candidate Profile: reliable detail oriented, inconsistent technical skills, bad adaptability, lacking problem solving, inconsistent creativity",NOT HIRE
+TRAIN_060,"Candidate Profile: bad problem solving, inconsistent critical thinking, inconsistent task prioritization, poor detail oriented, poor creativity",NOT HIRE
+TRAIN_061,"Candidate Profile: poor willing to learn, reliable technical skills, bad leadership, excellent task prioritization, outstanding problem solving",HIRE
+TRAIN_062,"Candidate Profile: inconsistent leadership, poor creativity, outstanding problem solving, excellent willing to learn, good technical skills",HIRE
+TRAIN_063,"Candidate Profile: bad leadership, good problem solving, weak detail oriented, outstanding creativity, lacking task prioritization",NOT HIRE
+TRAIN_064,"Candidate Profile: lacking quick learner, good willing to learn, poor critical thinking, outstanding task prioritization, reliable adaptability",NOT HIRE
+TRAIN_065,"Candidate Profile: poor willing to learn, outstanding creativity, reliable detail oriented, reliable quick learner, poor communication",NOT HIRE
+TRAIN_066,"Candidate Profile: poor detail oriented, good task prioritization, poor technical skills, outstanding communication, outstanding teamwork",NOT HIRE
+TRAIN_067,"Candidate Profile: good task prioritization, bad problem solving, poor quick learner, inconsistent communication, good willing to learn",NOT HIRE
+TRAIN_068,"Candidate Profile: bad quick learner, lacking detail oriented, strong task prioritization, strong willing to learn, excellent creativity",HIRE
+TRAIN_069,"Candidate Profile: good technical skills, outstanding teamwork, good willing to learn, lacking task prioritization, bad quick learner",NOT HIRE
+TRAIN_070,"Candidate Profile: inconsistent willing to learn, poor creativity, strong detail oriented, inconsistent critical thinking, outstanding adaptability",HIRE
+TRAIN_071,"Candidate Profile: poor detail oriented, strong task prioritization, outstanding quick learner, excellent leadership, strong communication",HIRE
+TRAIN_072,"Candidate Profile: outstanding teamwork, reliable leadership, poor detail oriented, bad problem solving, inconsistent willing to learn",NOT HIRE
+TRAIN_073,"Candidate Profile: inconsistent teamwork, lacking communication, outstanding adaptability, lacking critical thinking, weak problem solving",NOT HIRE
+TRAIN_074,"Candidate Profile: outstanding task prioritization, inconsistent problem solving, strong teamwork, outstanding willing to learn, outstanding adaptability",HIRE
+TRAIN_075,"Candidate Profile: bad detail oriented, inconsistent critical thinking, excellent adaptability, outstanding communication, lacking teamwork",HIRE
+TRAIN_076,"Candidate Profile: reliable communication, poor critical thinking, weak task prioritization, good quick learner, strong willing to learn",HIRE
+TRAIN_077,"Candidate Profile: reliable communication, reliable quick learner, reliable technical skills, weak detail oriented, outstanding adaptability",NOT HIRE
+TRAIN_078,"Candidate Profile: weak creativity, poor leadership, outstanding technical skills, poor adaptability, bad teamwork",NOT HIRE
+TRAIN_079,"Candidate Profile: good creativity, good detail oriented, reliable technical skills, inconsistent critical thinking, strong task prioritization",HIRE
+TRAIN_080,"Candidate Profile: outstanding leadership, excellent teamwork, inconsistent communication, poor quick learner, reliable task prioritization",HIRE
+TRAIN_081,"Candidate Profile: excellent creativity, reliable adaptability, bad quick learner, inconsistent teamwork, reliable leadership",HIRE
+TRAIN_082,"Candidate Profile: bad detail oriented, strong leadership, poor task prioritization, bad willing to learn, weak adaptability",HIRE
+TRAIN_083,"Candidate Profile: outstanding task prioritization, strong technical skills, inconsistent communication, reliable creativity, inconsistent willing to learn",HIRE
+TRAIN_084,"Candidate Profile: outstanding communication, reliable quick learner, good teamwork, lacking task prioritization, strong critical thinking",HIRE
+TRAIN_085,"Candidate Profile: outstanding teamwork, outstanding adaptability, poor leadership, lacking critical thinking, good willing to learn",NOT HIRE
+TRAIN_086,"Candidate Profile: good critical thinking, reliable leadership, strong communication, lacking teamwork, poor task prioritization",HIRE
+TRAIN_087,"Candidate Profile: poor adaptability, good critical thinking, poor quick learner, weak problem solving, reliable creativity",NOT HIRE
+TRAIN_088,"Candidate Profile: lacking adaptability, excellent communication, poor willing to learn, outstanding technical skills, poor task prioritization",HIRE
+TRAIN_089,"Candidate Profile: excellent quick learner, weak creativity, excellent leadership, poor communication, poor detail oriented",HIRE
+TRAIN_090,"Candidate Profile: poor quick learner, excellent problem solving, excellent teamwork, good leadership, excellent detail oriented",HIRE
+TRAIN_091,"Candidate Profile: weak adaptability, bad quick learner, good problem solving, lacking teamwork, lacking technical skills",NOT HIRE
+TRAIN_092,"Candidate Profile: reliable creativity, poor detail oriented, strong quick learner, reliable problem solving, inconsistent leadership",HIRE
+TRAIN_093,"Candidate Profile: good willing to learn, inconsistent critical thinking, excellent quick learner, weak task prioritization, weak communication",HIRE
+TRAIN_094,"Candidate Profile: good critical thinking, reliable leadership, poor adaptability, weak teamwork, poor task prioritization",NOT HIRE
+TRAIN_095,"Candidate Profile: weak teamwork, outstanding communication, inconsistent task prioritization, strong adaptability, weak problem solving",HIRE
+TRAIN_096,"Candidate Profile: good adaptability, poor quick learner, bad task prioritization, poor teamwork, weak problem solving",NOT HIRE
+TRAIN_097,"Candidate Profile: outstanding creativity, poor quick learner, poor critical thinking, bad problem solving, bad leadership",NOT HIRE
+TRAIN_098,"Candidate Profile: good task prioritization, inconsistent teamwork, bad critical thinking, reliable willing to learn, outstanding adaptability",NOT HIRE
+TRAIN_099,"Candidate Profile: good willing to learn, lacking creativity, strong technical skills, reliable communication, lacking quick learner",HIRE
+TRAIN_100,"Candidate Profile: inconsistent communication, poor detail oriented, lacking teamwork, reliable task prioritization, excellent adaptability",HIRE
+TRAIN_101,"Candidate Profile: inconsistent leadership, bad problem solving, lacking communication, weak detail oriented, reliable task prioritization",NOT HIRE
+TRAIN_102,"Candidate Profile: inconsistent detail oriented, bad teamwork, lacking task prioritization, strong adaptability, poor creativity",HIRE
+TRAIN_103,"Candidate Profile: weak willing to learn, lacking leadership, outstanding adaptability, excellent problem solving, reliable teamwork",HIRE
+TRAIN_104,"Candidate Profile: good leadership, inconsistent technical skills, lacking willing to learn, good quick learner, reliable adaptability",NOT HIRE
+TRAIN_105,"Candidate Profile: bad problem solving, poor detail oriented, bad critical thinking, reliable willing to learn, strong communication",HIRE
+TRAIN_106,"Candidate Profile: reliable critical thinking, lacking detail oriented, reliable technical skills, weak leadership, outstanding communication",NOT HIRE
+TRAIN_107,"Candidate Profile: lacking detail oriented, good quick learner, reliable teamwork, outstanding technical skills, reliable problem solving",NOT HIRE
+TRAIN_108,"Candidate Profile: poor willing to learn, reliable creativity, excellent task prioritization, good technical skills, strong detail oriented",HIRE
+TRAIN_109,"Candidate Profile: strong leadership, outstanding creativity, outstanding communication, good problem solving, good willing to learn",HIRE
+TRAIN_110,"Candidate Profile: inconsistent quick learner, excellent willing to learn, excellent creativity, weak detail oriented, reliable technical skills",HIRE
+TRAIN_111,"Candidate Profile: excellent adaptability, good problem solving, lacking teamwork, bad quick learner, outstanding communication",HIRE
+TRAIN_112,"Candidate Profile: weak willing to learn, excellent communication, good adaptability, strong task prioritization, bad quick learner",HIRE
+TRAIN_113,"Candidate Profile: bad quick learner, lacking problem solving, lacking detail oriented, inconsistent creativity, good willing to learn",NOT HIRE
+TRAIN_114,"Candidate Profile: bad adaptability, reliable communication, bad quick learner, strong technical skills, lacking leadership",HIRE
+TRAIN_115,"Candidate Profile: lacking critical thinking, lacking detail oriented, poor willing to learn, poor technical skills, weak task prioritization",NOT HIRE
+TRAIN_116,"Candidate Profile: good teamwork, excellent communication, reliable quick learner, inconsistent problem solving, outstanding detail oriented",HIRE
+TRAIN_117,"Candidate Profile: reliable quick learner, strong willing to learn, excellent detail oriented, poor task prioritization, lacking communication",HIRE
+TRAIN_118,"Candidate Profile: weak teamwork, inconsistent creativity, bad adaptability, inconsistent critical thinking, excellent willing to learn",HIRE
+TRAIN_119,"Candidate Profile: inconsistent adaptability, bad technical skills, excellent task prioritization, outstanding communication, lacking quick learner",HIRE
+TRAIN_120,"Candidate Profile: good creativity, bad quick learner, lacking willing to learn, good communication, poor teamwork",NOT HIRE
+TRAIN_121,"Candidate Profile: weak quick learner, weak communication, inconsistent teamwork, weak critical thinking, bad creativity",NOT HIRE
+TRAIN_122,"Candidate Profile: outstanding communication, weak creativity, bad technical skills, excellent problem solving, excellent detail oriented",HIRE
+TRAIN_123,"Candidate Profile: excellent communication, outstanding task prioritization, bad leadership, poor problem solving, bad teamwork",HIRE
+TRAIN_124,"Candidate Profile: inconsistent technical skills, reliable critical thinking, outstanding communication, weak task prioritization, outstanding quick learner",NOT HIRE
+TRAIN_125,"Candidate Profile: inconsistent leadership, excellent detail oriented, poor willing to learn, poor critical thinking, good adaptability",HIRE
+TRAIN_126,"Candidate Profile: strong creativity, inconsistent technical skills, bad quick learner, good task prioritization, inconsistent teamwork",HIRE
+TRAIN_127,"Candidate Profile: inconsistent teamwork, strong technical skills, strong adaptability, excellent problem solving, good critical thinking",HIRE
+TRAIN_128,"Candidate Profile: poor adaptability, outstanding problem solving, bad willing to learn, outstanding quick learner, weak detail oriented",NOT HIRE
+TRAIN_129,"Candidate Profile: inconsistent critical thinking, weak creativity, poor willing to learn, inconsistent technical skills, poor leadership",NOT HIRE
+TRAIN_130,"Candidate Profile: lacking communication, bad willing to learn, good leadership, reliable critical thinking, inconsistent teamwork",NOT HIRE
+TRAIN_131,"Candidate Profile: good willing to learn, bad detail oriented, reliable technical skills, lacking communication, poor critical thinking",NOT HIRE
+TRAIN_132,"Candidate Profile: poor problem solving, reliable leadership, lacking creativity, reliable willing to learn, excellent teamwork",HIRE
+TRAIN_133,"Candidate Profile: weak problem solving, good adaptability, reliable task prioritization, bad willing to learn, strong quick learner",HIRE
+TRAIN_134,"Candidate Profile: excellent leadership, poor critical thinking, good willing to learn, good detail oriented, strong task prioritization",HIRE
+TRAIN_135,"Candidate Profile: bad task prioritization, strong leadership, outstanding communication, outstanding technical skills, outstanding creativity",HIRE
+TRAIN_136,"Candidate Profile: excellent creativity, lacking critical thinking, good communication, poor adaptability, strong task prioritization",HIRE
+TRAIN_137,"Candidate Profile: weak detail oriented, outstanding teamwork, poor communication, reliable willing to learn, inconsistent task prioritization",NOT HIRE
+TRAIN_138,"Candidate Profile: inconsistent technical skills, lacking detail oriented, inconsistent problem solving, outstanding communication, poor quick learner",NOT HIRE
+TRAIN_139,"Candidate Profile: poor creativity, lacking quick learner, poor detail oriented, lacking task prioritization, outstanding communication",NOT HIRE
+TRAIN_140,"Candidate Profile: bad creativity, outstanding quick learner, good adaptability, bad communication, poor detail oriented",NOT HIRE
+TRAIN_141,"Candidate Profile: poor detail oriented, lacking problem solving, bad quick learner, reliable technical skills, reliable willing to learn",NOT HIRE
+TRAIN_142,"Candidate Profile: inconsistent teamwork, good communication, reliable creativity, excellent quick learner, inconsistent critical thinking",HIRE
+TRAIN_143,"Candidate Profile: lacking willing to learn, inconsistent teamwork, good quick learner, bad task prioritization, inconsistent detail oriented",NOT HIRE
+TRAIN_144,"Candidate Profile: reliable willing to learn, reliable critical thinking, inconsistent task prioritization, strong leadership, poor quick learner",HIRE
+TRAIN_145,"Candidate Profile: excellent technical skills, good detail oriented, lacking adaptability, weak critical thinking, outstanding task prioritization",HIRE
+TRAIN_146,"Candidate Profile: bad willing to learn, weak creativity, weak problem solving, good adaptability, strong technical skills",HIRE
+TRAIN_147,"Candidate Profile: weak task prioritization, strong detail oriented, reliable teamwork, bad leadership, weak communication",HIRE
+TRAIN_148,"Candidate Profile: bad communication, inconsistent creativity, inconsistent problem solving, good technical skills, weak task prioritization",NOT HIRE
+TRAIN_149,"Candidate Profile: lacking quick learner, poor critical thinking, inconsistent technical skills, strong problem solving, good detail oriented",HIRE
+TRAIN_150,"Candidate Profile: good technical skills, strong creativity, strong critical thinking, lacking teamwork, good detail oriented",HIRE
+TRAIN_151,"Candidate Profile: outstanding adaptability, inconsistent detail oriented, good critical thinking, inconsistent quick learner, excellent problem solving",HIRE
+TRAIN_152,"Candidate Profile: weak task prioritization, lacking creativity, weak problem solving, outstanding leadership, strong critical thinking",HIRE
+TRAIN_153,"Candidate Profile: excellent detail oriented, bad problem solving, good adaptability, reliable critical thinking, excellent communication",HIRE
+TRAIN_154,"Candidate Profile: strong problem solving, excellent detail oriented, poor adaptability, lacking technical skills, inconsistent creativity",HIRE
+TRAIN_155,"Candidate Profile: bad critical thinking, inconsistent communication, poor teamwork, excellent task prioritization, bad leadership",HIRE
+TRAIN_156,"Candidate Profile: outstanding communication, bad critical thinking, poor problem solving, reliable creativity, good adaptability",NOT HIRE
+TRAIN_157,"Candidate Profile: bad leadership, outstanding task prioritization, good critical thinking, strong quick learner, outstanding adaptability",HIRE
+TRAIN_158,"Candidate Profile: strong teamwork, poor quick learner, strong creativity, weak communication, excellent adaptability",HIRE
+TRAIN_159,"Candidate Profile: outstanding teamwork, outstanding technical skills, inconsistent adaptability, good quick learner, excellent leadership",HIRE
+TRAIN_160,"Candidate Profile: poor leadership, inconsistent willing to learn, poor task prioritization, inconsistent teamwork, lacking problem solving",NOT HIRE
+TRAIN_161,"Candidate Profile: poor critical thinking, weak creativity, good detail oriented, poor teamwork, reliable technical skills",NOT HIRE
+TRAIN_162,"Candidate Profile: strong critical thinking, lacking teamwork, strong leadership, weak problem solving, excellent detail oriented",HIRE
+TRAIN_163,"Candidate Profile: excellent leadership, inconsistent technical skills, poor communication, outstanding teamwork, excellent creativity",HIRE
+TRAIN_164,"Candidate Profile: poor technical skills, lacking detail oriented, inconsistent willing to learn, weak problem solving, poor creativity",NOT HIRE
+TRAIN_165,"Candidate Profile: good technical skills, inconsistent adaptability, bad creativity, bad detail oriented, bad communication",NOT HIRE
+TRAIN_166,"Candidate Profile: poor teamwork, poor detail oriented, reliable critical thinking, good problem solving, lacking leadership",NOT HIRE
+TRAIN_167,"Candidate Profile: good technical skills, good communication, poor leadership, lacking problem solving, weak willing to learn",NOT HIRE
+TRAIN_168,"Candidate Profile: inconsistent detail oriented, bad communication, strong critical thinking, strong teamwork, excellent willing to learn",HIRE
+TRAIN_169,"Candidate Profile: poor problem solving, excellent teamwork, inconsistent task prioritization, excellent communication, inconsistent critical thinking",HIRE
+TRAIN_170,"Candidate Profile: outstanding communication, good adaptability, weak willing to learn, poor teamwork, poor technical skills",NOT HIRE
+TRAIN_171,"Candidate Profile: reliable adaptability, bad quick learner, good technical skills, bad task prioritization, outstanding leadership",NOT HIRE
+TRAIN_172,"Candidate Profile: excellent quick learner, poor task prioritization, lacking creativity, weak problem solving, bad leadership",HIRE
+TRAIN_173,"Candidate Profile: weak willing to learn, poor critical thinking, weak teamwork, excellent task prioritization, inconsistent technical skills",HIRE
+TRAIN_174,"Candidate Profile: strong teamwork, strong communication, good quick learner, poor technical skills, good creativity",HIRE
+TRAIN_175,"Candidate Profile: bad creativity, inconsistent willing to learn, poor quick learner, strong problem solving, weak teamwork",HIRE
+TRAIN_176,"Candidate Profile: inconsistent adaptability, lacking leadership, excellent communication, poor teamwork, inconsistent willing to learn",HIRE
+TRAIN_177,"Candidate Profile: inconsistent quick learner, strong technical skills, excellent detail oriented, good willing to learn, lacking critical thinking",HIRE
+TRAIN_178,"Candidate Profile: excellent willing to learn, bad task prioritization, bad leadership, weak adaptability, inconsistent technical skills",HIRE
+TRAIN_179,"Candidate Profile: bad problem solving, poor adaptability, weak task prioritization, strong detail oriented, strong communication",HIRE
+TRAIN_180,"Candidate Profile: bad creativity, excellent willing to learn, reliable problem solving, good teamwork, excellent detail oriented",HIRE
+TRAIN_181,"Candidate Profile: excellent leadership, reliable task prioritization, poor adaptability, reliable detail oriented, weak critical thinking",HIRE
+TRAIN_182,"Candidate Profile: reliable creativity, excellent quick learner, good problem solving, excellent technical skills, strong adaptability",HIRE
+TRAIN_183,"Candidate Profile: bad willing to learn, bad leadership, outstanding detail oriented, lacking creativity, lacking teamwork",NOT HIRE
+TRAIN_184,"Candidate Profile: lacking quick learner, bad task prioritization, good critical thinking, strong adaptability, outstanding leadership",HIRE
+TRAIN_185,"Candidate Profile: good creativity, outstanding detail oriented, bad quick learner, excellent communication, poor willing to learn",HIRE
+TRAIN_186,"Candidate Profile: lacking problem solving, inconsistent leadership, reliable quick learner, reliable communication, poor task prioritization",NOT HIRE
+TRAIN_187,"Candidate Profile: strong detail oriented, weak communication, inconsistent critical thinking, excellent teamwork, poor technical skills",HIRE
+TRAIN_188,"Candidate Profile: bad detail oriented, excellent teamwork, poor quick learner, poor adaptability, strong willing to learn",HIRE
+TRAIN_189,"Candidate Profile: strong task prioritization, inconsistent creativity, good critical thinking, excellent technical skills, poor teamwork",HIRE
+TRAIN_190,"Candidate Profile: reliable leadership, strong technical skills, weak detail oriented, reliable adaptability, reliable communication",HIRE
+TRAIN_191,"Candidate Profile: good detail oriented, poor quick learner, inconsistent problem solving, strong technical skills, strong critical thinking",HIRE
+TRAIN_192,"Candidate Profile: excellent task prioritization, strong detail oriented, inconsistent communication, poor leadership, good adaptability",HIRE
+TRAIN_193,"Candidate Profile: outstanding leadership, excellent critical thinking, good teamwork, excellent problem solving, bad creativity",HIRE
+TRAIN_194,"Candidate Profile: bad adaptability, inconsistent creativity, excellent critical thinking, inconsistent technical skills, bad leadership",HIRE
+TRAIN_195,"Candidate Profile: inconsistent critical thinking, excellent technical skills, strong adaptability, excellent willing to learn, good quick learner",HIRE
+TRAIN_196,"Candidate Profile: outstanding technical skills, lacking problem solving, poor creativity, strong detail oriented, inconsistent task prioritization",HIRE
+TRAIN_197,"Candidate Profile: bad communication, reliable problem solving, weak task prioritization, excellent technical skills, weak adaptability",HIRE
+TRAIN_198,"Candidate Profile: bad problem solving, lacking detail oriented, strong critical thinking, excellent teamwork, lacking quick learner",HIRE
+TRAIN_199,"Candidate Profile: reliable detail oriented, weak critical thinking, outstanding creativity, strong teamwork, outstanding adaptability",HIRE
+TRAIN_200,"Candidate Profile: reliable quick learner, weak leadership, bad problem solving, inconsistent communication, inconsistent creativity",NOT HIRE
+TRAIN_201,"Candidate Profile: poor willing to learn, poor critical thinking, lacking quick learner, weak technical skills, lacking leadership",NOT HIRE
+TRAIN_202,"Candidate Profile: excellent leadership, poor teamwork, inconsistent willing to learn, inconsistent detail oriented, bad quick learner",HIRE
+TRAIN_203,"Candidate Profile: strong problem solving, poor critical thinking, bad leadership, excellent adaptability, reliable creativity",HIRE
+TRAIN_204,"Candidate Profile: excellent willing to learn, strong adaptability, strong detail oriented, outstanding leadership, strong task prioritization",HIRE
+TRAIN_205,"Candidate Profile: outstanding critical thinking, poor creativity, strong technical skills, strong quick learner, lacking teamwork",HIRE
+TRAIN_206,"Candidate Profile: lacking teamwork, outstanding task prioritization, good creativity, reliable willing to learn, bad adaptability",NOT HIRE
+TRAIN_207,"Candidate Profile: excellent creativity, weak adaptability, weak critical thinking, good teamwork, strong quick learner",HIRE
+TRAIN_208,"Candidate Profile: lacking communication, poor willing to learn, poor adaptability, poor teamwork, outstanding task prioritization",NOT HIRE
+TRAIN_209,"Candidate Profile: excellent communication, weak creativity, weak leadership, inconsistent detail oriented, lacking critical thinking",HIRE
+TRAIN_210,"Candidate Profile: inconsistent technical skills, weak teamwork, strong critical thinking, lacking adaptability, excellent detail oriented",HIRE
+TRAIN_211,"Candidate Profile: strong task prioritization, poor leadership, strong detail oriented, inconsistent technical skills, outstanding teamwork",HIRE
+TRAIN_212,"Candidate Profile: reliable problem solving, reliable detail oriented, good adaptability, strong task prioritization, strong teamwork",HIRE
+TRAIN_213,"Candidate Profile: inconsistent detail oriented, lacking quick learner, reliable teamwork, excellent critical thinking, inconsistent task prioritization",HIRE
+TRAIN_214,"Candidate Profile: bad willing to learn, weak teamwork, good task prioritization, reliable technical skills, excellent leadership",HIRE
+TRAIN_215,"Candidate Profile: excellent leadership, outstanding quick learner, bad technical skills, inconsistent teamwork, inconsistent detail oriented",HIRE
+TRAIN_216,"Candidate Profile: poor leadership, reliable quick learner, excellent critical thinking, poor detail oriented, weak adaptability",HIRE
+TRAIN_217,"Candidate Profile: outstanding communication, reliable adaptability, good leadership, strong willing to learn, poor problem solving",HIRE
+TRAIN_218,"Candidate Profile: strong technical skills, reliable problem solving, weak willing to learn, reliable communication, lacking adaptability",HIRE
+TRAIN_219,"Candidate Profile: excellent communication, good technical skills, outstanding creativity, reliable problem solving, inconsistent adaptability",HIRE
+TRAIN_220,"Candidate Profile: good communication, inconsistent willing to learn, outstanding detail oriented, excellent quick learner, good problem solving",HIRE
+TRAIN_221,"Candidate Profile: weak problem solving, good creativity, reliable quick learner, strong leadership, good critical thinking",HIRE
+TRAIN_222,"Candidate Profile: lacking problem solving, bad task prioritization, lacking leadership, outstanding communication, excellent technical skills",HIRE
+TRAIN_223,"Candidate Profile: lacking detail oriented, bad willing to learn, lacking communication, excellent technical skills, excellent teamwork",HIRE
+TRAIN_224,"Candidate Profile: good quick learner, inconsistent communication, excellent creativity, bad willing to learn, reliable adaptability",HIRE
+TRAIN_225,"Candidate Profile: strong detail oriented, poor quick learner, excellent problem solving, good teamwork, lacking adaptability",HIRE
+TRAIN_226,"Candidate Profile: good detail oriented, lacking leadership, inconsistent quick learner, lacking problem solving, good critical thinking",NOT HIRE
+TRAIN_227,"Candidate Profile: outstanding willing to learn, outstanding leadership, bad creativity, excellent adaptability, poor communication",HIRE
+TRAIN_228,"Candidate Profile: bad task prioritization, excellent technical skills, inconsistent leadership, inconsistent detail oriented, good problem solving",HIRE
+TRAIN_229,"Candidate Profile: reliable problem solving, lacking creativity, inconsistent detail oriented, poor task prioritization, inconsistent technical skills",NOT HIRE
+TRAIN_230,"Candidate Profile: weak detail oriented, outstanding leadership, reliable problem solving, strong willing to learn, lacking adaptability",HIRE
+TRAIN_231,"Candidate Profile: reliable creativity, weak critical thinking, reliable adaptability, strong task prioritization, good leadership",HIRE
+TRAIN_232,"Candidate Profile: weak critical thinking, reliable detail oriented, weak creativity, reliable teamwork, good willing to learn",NOT HIRE
+TRAIN_233,"Candidate Profile: reliable willing to learn, inconsistent communication, weak critical thinking, outstanding teamwork, outstanding detail oriented",NOT HIRE
+TRAIN_234,"Candidate Profile: lacking adaptability, reliable task prioritization, inconsistent technical skills, weak creativity, good quick learner",NOT HIRE
+TRAIN_235,"Candidate Profile: poor leadership, excellent problem solving, lacking adaptability, reliable task prioritization, inconsistent technical skills",HIRE
+TRAIN_236,"Candidate Profile: reliable problem solving, good technical skills, reliable communication, weak creativity, strong critical thinking",HIRE
+TRAIN_237,"Candidate Profile: strong willing to learn, excellent adaptability, lacking problem solving, inconsistent technical skills, inconsistent teamwork",HIRE
+TRAIN_238,"Candidate Profile: inconsistent task prioritization, outstanding teamwork, reliable technical skills, strong willing to learn, poor critical thinking",HIRE
+TRAIN_239,"Candidate Profile: strong task prioritization, lacking technical skills, reliable leadership, good detail oriented, inconsistent adaptability",HIRE
+TRAIN_240,"Candidate Profile: weak critical thinking, outstanding creativity, inconsistent communication, inconsistent adaptability, outstanding teamwork",NOT HIRE
+TRAIN_241,"Candidate Profile: good communication, good teamwork, excellent willing to learn, poor creativity, lacking problem solving",HIRE
+TRAIN_242,"Candidate Profile: lacking creativity, good technical skills, outstanding teamwork, weak problem solving, good critical thinking",NOT HIRE
+TRAIN_243,"Candidate Profile: weak technical skills, reliable detail oriented, reliable quick learner, bad communication, outstanding teamwork",NOT HIRE
+TRAIN_244,"Candidate Profile: reliable creativity, weak detail oriented, strong quick learner, reliable teamwork, excellent communication",HIRE
+TRAIN_245,"Candidate Profile: inconsistent problem solving, bad creativity, outstanding adaptability, lacking communication, weak technical skills",NOT HIRE
+TRAIN_246,"Candidate Profile: reliable technical skills, outstanding communication, outstanding leadership, inconsistent task prioritization, good willing to learn",NOT HIRE
+TRAIN_247,"Candidate Profile: inconsistent creativity, inconsistent detail oriented, lacking communication, lacking teamwork, reliable technical skills",NOT HIRE
+TRAIN_248,"Candidate Profile: poor task prioritization, outstanding adaptability, poor quick learner, strong communication, outstanding problem solving",HIRE
+TRAIN_249,"Candidate Profile: good detail oriented, outstanding technical skills, excellent critical thinking, poor creativity, good leadership",HIRE
+TRAIN_250,"Candidate Profile: poor communication, outstanding critical thinking, weak technical skills, outstanding problem solving, poor willing to learn",NOT HIRE
+TRAIN_251,"Candidate Profile: strong creativity, weak critical thinking, reliable technical skills, weak leadership, inconsistent adaptability",HIRE
+TRAIN_252,"Candidate Profile: strong leadership, outstanding creativity, strong detail oriented, outstanding task prioritization, strong willing to learn",HIRE
+TRAIN_253,"Candidate Profile: excellent quick learner, inconsistent creativity, inconsistent adaptability, excellent leadership, outstanding task prioritization",HIRE
+TRAIN_254,"Candidate Profile: outstanding detail oriented, excellent teamwork, good willing to learn, bad critical thinking, excellent creativity",HIRE
+TRAIN_255,"Candidate Profile: excellent problem solving, outstanding quick learner, lacking detail oriented, reliable technical skills, weak teamwork",HIRE
+TRAIN_256,"Candidate Profile: strong teamwork, lacking detail oriented, inconsistent problem solving, strong quick learner, good willing to learn",HIRE
+TRAIN_257,"Candidate Profile: inconsistent quick learner, bad teamwork, strong critical thinking, poor task prioritization, weak adaptability",HIRE
+TRAIN_258,"Candidate Profile: reliable adaptability, reliable problem solving, lacking task prioritization, reliable technical skills, strong leadership",HIRE
+TRAIN_259,"Candidate Profile: poor teamwork, strong technical skills, outstanding task prioritization, weak creativity, weak critical thinking",HIRE
+TRAIN_260,"Candidate Profile: weak communication, reliable quick learner, lacking problem solving, good teamwork, inconsistent creativity",NOT HIRE
+TRAIN_261,"Candidate Profile: bad creativity, lacking quick learner, weak teamwork, weak technical skills, lacking adaptability",NOT HIRE
+TRAIN_262,"Candidate Profile: poor problem solving, strong technical skills, reliable detail oriented, reliable leadership, bad critical thinking",HIRE
+TRAIN_263,"Candidate Profile: strong critical thinking, inconsistent communication, bad teamwork, poor leadership, lacking technical skills",HIRE
+TRAIN_264,"Candidate Profile: bad critical thinking, outstanding creativity, weak leadership, outstanding technical skills, poor willing to learn",NOT HIRE
+TRAIN_265,"Candidate Profile: good teamwork, lacking leadership, inconsistent adaptability, outstanding quick learner, weak willing to learn",NOT HIRE
+TRAIN_266,"Candidate Profile: outstanding task prioritization, poor leadership, excellent quick learner, reliable technical skills, reliable problem solving",HIRE
+TRAIN_267,"Candidate Profile: weak technical skills, bad creativity, reliable communication, strong willing to learn, poor problem solving",HIRE
+TRAIN_268,"Candidate Profile: strong communication, outstanding willing to learn, strong leadership, inconsistent adaptability, good task prioritization",HIRE
+TRAIN_269,"Candidate Profile: outstanding problem solving, good critical thinking, poor quick learner, reliable adaptability, bad detail oriented",NOT HIRE
+TRAIN_270,"Candidate Profile: lacking creativity, good problem solving, poor willing to learn, reliable quick learner, lacking task prioritization",NOT HIRE
+TRAIN_271,"Candidate Profile: excellent willing to learn, inconsistent technical skills, reliable task prioritization, inconsistent quick learner, lacking teamwork",HIRE
+TRAIN_272,"Candidate Profile: lacking technical skills, poor problem solving, excellent quick learner, poor adaptability, poor willing to learn",HIRE
+TRAIN_273,"Candidate Profile: strong critical thinking, strong teamwork, bad adaptability, reliable technical skills, outstanding communication",HIRE
+TRAIN_274,"Candidate Profile: bad task prioritization, inconsistent adaptability, poor critical thinking, weak leadership, weak teamwork",NOT HIRE
+TRAIN_275,"Candidate Profile: lacking communication, outstanding teamwork, poor creativity, inconsistent critical thinking, inconsistent quick learner",NOT HIRE
+TRAIN_276,"Candidate Profile: strong quick learner, outstanding creativity, reliable problem solving, good communication, outstanding technical skills",HIRE
+TRAIN_277,"Candidate Profile: bad leadership, lacking quick learner, weak problem solving, excellent teamwork, reliable adaptability",HIRE
+TRAIN_278,"Candidate Profile: inconsistent task prioritization, reliable problem solving, excellent communication, poor technical skills, inconsistent adaptability",HIRE
+TRAIN_279,"Candidate Profile: good adaptability, bad detail oriented, strong communication, reliable task prioritization, excellent willing to learn",HIRE
+TRAIN_280,"Candidate Profile: good technical skills, inconsistent critical thinking, bad quick learner, excellent creativity, outstanding leadership",HIRE
+TRAIN_281,"Candidate Profile: good teamwork, bad willing to learn, outstanding quick learner, reliable leadership, weak creativity",NOT HIRE
+TRAIN_282,"Candidate Profile: poor creativity, outstanding teamwork, bad technical skills, weak communication, inconsistent problem solving",NOT HIRE
+TRAIN_283,"Candidate Profile: outstanding communication, good leadership, lacking detail oriented, outstanding teamwork, excellent quick learner",HIRE
+TRAIN_284,"Candidate Profile: inconsistent teamwork, inconsistent task prioritization, inconsistent detail oriented, reliable critical thinking, outstanding quick learner",NOT HIRE
+TRAIN_285,"Candidate Profile: inconsistent teamwork, weak detail oriented, bad critical thinking, poor quick learner, reliable creativity",NOT HIRE
+TRAIN_286,"Candidate Profile: excellent detail oriented, reliable quick learner, lacking technical skills, outstanding teamwork, inconsistent leadership",HIRE
+TRAIN_287,"Candidate Profile: bad problem solving, good task prioritization, lacking technical skills, weak critical thinking, outstanding quick learner",NOT HIRE
+TRAIN_288,"Candidate Profile: outstanding teamwork, inconsistent critical thinking, reliable adaptability, poor leadership, weak detail oriented",NOT HIRE
+TRAIN_289,"Candidate Profile: reliable communication, weak teamwork, poor task prioritization, bad problem solving, excellent willing to learn",HIRE
+TRAIN_290,"Candidate Profile: reliable leadership, weak technical skills, lacking quick learner, strong teamwork, inconsistent creativity",HIRE
+TRAIN_291,"Candidate Profile: bad teamwork, lacking creativity, inconsistent technical skills, weak adaptability, good task prioritization",NOT HIRE
+TRAIN_292,"Candidate Profile: strong willing to learn, reliable task prioritization, excellent problem solving, weak teamwork, inconsistent technical skills",HIRE
+TRAIN_293,"Candidate Profile: weak detail oriented, inconsistent creativity, outstanding teamwork, outstanding leadership, poor adaptability",NOT HIRE
+TRAIN_294,"Candidate Profile: weak technical skills, excellent detail oriented, excellent leadership, weak willing to learn, inconsistent teamwork",HIRE
+TRAIN_295,"Candidate Profile: inconsistent teamwork, inconsistent detail oriented, reliable adaptability, excellent willing to learn, excellent task prioritization",HIRE
+TRAIN_296,"Candidate Profile: lacking task prioritization, weak problem solving, reliable creativity, poor detail oriented, poor critical thinking",NOT HIRE
+TRAIN_297,"Candidate Profile: outstanding willing to learn, reliable detail oriented, lacking leadership, strong problem solving, good quick learner",HIRE
+TRAIN_298,"Candidate Profile: weak task prioritization, poor critical thinking, strong teamwork, excellent communication, good technical skills",HIRE
+TRAIN_299,"Candidate Profile: inconsistent teamwork, bad critical thinking, excellent problem solving, lacking technical skills, reliable adaptability",HIRE
+TRAIN_300,"Candidate Profile: inconsistent communication, strong problem solving, outstanding detail oriented, reliable teamwork, bad quick learner",HIRE
+TRAIN_301,"Candidate Profile: strong adaptability, outstanding leadership, bad detail oriented, excellent problem solving, reliable creativity",HIRE
+TRAIN_302,"Candidate Profile: inconsistent quick learner, bad adaptability, good task prioritization, bad communication, excellent willing to learn",HIRE
+TRAIN_303,"Candidate Profile: poor detail oriented, poor problem solving, strong willing to learn, poor critical thinking, weak teamwork",HIRE
+TRAIN_304,"Candidate Profile: outstanding problem solving, inconsistent creativity, poor leadership, excellent adaptability, poor teamwork",HIRE
+TRAIN_305,"Candidate Profile: bad quick learner, reliable critical thinking, reliable task prioritization, outstanding willing to learn, weak leadership",NOT HIRE
+TRAIN_306,"Candidate Profile: reliable creativity, reliable willing to learn, strong task prioritization, outstanding detail oriented, reliable teamwork",HIRE
+TRAIN_307,"Candidate Profile: bad creativity, strong detail oriented, weak teamwork, good leadership, reliable adaptability",HIRE
+TRAIN_308,"Candidate Profile: weak critical thinking, poor quick learner, weak adaptability, good problem solving, lacking teamwork",NOT HIRE
+TRAIN_309,"Candidate Profile: outstanding detail oriented, excellent teamwork, excellent task prioritization, bad creativity, strong critical thinking",HIRE
+TRAIN_310,"Candidate Profile: poor technical skills, inconsistent willing to learn, strong critical thinking, lacking communication, lacking creativity",HIRE
+TRAIN_311,"Candidate Profile: bad willing to learn, good leadership, poor critical thinking, weak quick learner, bad technical skills",NOT HIRE
+TRAIN_312,"Candidate Profile: bad critical thinking, excellent detail oriented, lacking teamwork, reliable task prioritization, poor problem solving",HIRE
+TRAIN_313,"Candidate Profile: reliable creativity, strong willing to learn, poor detail oriented, lacking adaptability, outstanding communication",HIRE
+TRAIN_314,"Candidate Profile: outstanding quick learner, poor technical skills, good communication, poor detail oriented, excellent teamwork",HIRE
+TRAIN_315,"Candidate Profile: weak leadership, outstanding willing to learn, poor teamwork, bad detail oriented, reliable communication",NOT HIRE
+TRAIN_316,"Candidate Profile: excellent communication, lacking teamwork, poor technical skills, lacking task prioritization, strong creativity",HIRE
+TRAIN_317,"Candidate Profile: outstanding adaptability, excellent willing to learn, inconsistent creativity, lacking quick learner, inconsistent detail oriented",HIRE
+TRAIN_318,"Candidate Profile: outstanding technical skills, strong critical thinking, good adaptability, lacking creativity, strong quick learner",HIRE
+TRAIN_319,"Candidate Profile: excellent task prioritization, strong detail oriented, poor quick learner, weak problem solving, outstanding teamwork",HIRE
+TRAIN_320,"Candidate Profile: inconsistent willing to learn, reliable detail oriented, good leadership, good technical skills, strong teamwork",HIRE
+TRAIN_321,"Candidate Profile: lacking leadership, strong teamwork, bad communication, excellent creativity, weak adaptability",HIRE
+TRAIN_322,"Candidate Profile: outstanding critical thinking, inconsistent teamwork, good quick learner, weak communication, poor technical skills",NOT HIRE
+TRAIN_323,"Candidate Profile: reliable task prioritization, inconsistent technical skills, weak willing to learn, poor teamwork, lacking adaptability",NOT HIRE
+TRAIN_324,"Candidate Profile: strong communication, good technical skills, good adaptability, bad problem solving, strong willing to learn",HIRE
+TRAIN_325,"Candidate Profile: good adaptability, lacking detail oriented, outstanding creativity, strong willing to learn, reliable problem solving",HIRE
+TRAIN_326,"Candidate Profile: poor willing to learn, reliable detail oriented, poor creativity, inconsistent adaptability, good technical skills",NOT HIRE
+TRAIN_327,"Candidate Profile: good problem solving, weak adaptability, strong creativity, lacking leadership, poor teamwork",HIRE
+TRAIN_328,"Candidate Profile: lacking creativity, strong adaptability, strong critical thinking, reliable teamwork, reliable leadership",HIRE
+TRAIN_329,"Candidate Profile: reliable adaptability, weak willing to learn, weak leadership, reliable quick learner, inconsistent problem solving",NOT HIRE
+TRAIN_330,"Candidate Profile: lacking technical skills, strong willing to learn, reliable quick learner, good teamwork, weak creativity",HIRE
+TRAIN_331,"Candidate Profile: lacking critical thinking, strong creativity, reliable leadership, lacking teamwork, excellent problem solving",HIRE
+TRAIN_332,"Candidate Profile: inconsistent task prioritization, lacking critical thinking, outstanding quick learner, poor leadership, inconsistent adaptability",NOT HIRE
+TRAIN_333,"Candidate Profile: bad quick learner, excellent communication, inconsistent adaptability, poor willing to learn, bad leadership",HIRE
+TRAIN_334,"Candidate Profile: outstanding communication, weak technical skills, good adaptability, good willing to learn, poor creativity",NOT HIRE
+TRAIN_335,"Candidate Profile: reliable adaptability, strong task prioritization, lacking willing to learn, strong problem solving, excellent technical skills",HIRE
+TRAIN_336,"Candidate Profile: weak leadership, outstanding willing to learn, bad adaptability, weak task prioritization, excellent critical thinking",HIRE
+TRAIN_337,"Candidate Profile: bad willing to learn, excellent creativity, reliable teamwork, bad communication, lacking adaptability",HIRE
+TRAIN_338,"Candidate Profile: poor task prioritization, bad technical skills, excellent leadership, good quick learner, strong creativity",HIRE
+TRAIN_339,"Candidate Profile: outstanding critical thinking, bad task prioritization, bad creativity, weak teamwork, excellent leadership",HIRE
+TRAIN_340,"Candidate Profile: weak teamwork, strong technical skills, good problem solving, poor detail oriented, poor willing to learn",HIRE
+TRAIN_341,"Candidate Profile: good communication, outstanding problem solving, lacking task prioritization, poor technical skills, inconsistent adaptability",NOT HIRE
+TRAIN_342,"Candidate Profile: weak problem solving, outstanding task prioritization, excellent adaptability, strong critical thinking, bad willing to learn",HIRE
+TRAIN_343,"Candidate Profile: good teamwork, good problem solving, poor technical skills, weak willing to learn, inconsistent adaptability",NOT HIRE
+TRAIN_344,"Candidate Profile: weak teamwork, outstanding creativity, lacking communication, good quick learner, weak willing to learn",NOT HIRE
+TRAIN_345,"Candidate Profile: strong problem solving, strong creativity, poor communication, inconsistent technical skills, inconsistent task prioritization",HIRE
+TRAIN_346,"Candidate Profile: bad leadership, strong technical skills, outstanding teamwork, lacking detail oriented, inconsistent communication",HIRE
+TRAIN_347,"Candidate Profile: inconsistent teamwork, bad problem solving, outstanding communication, excellent technical skills, poor leadership",HIRE
+TRAIN_348,"Candidate Profile: weak adaptability, lacking teamwork, lacking problem solving, good willing to learn, outstanding detail oriented",NOT HIRE
+TRAIN_349,"Candidate Profile: strong willing to learn, good quick learner, reliable critical thinking, poor teamwork, lacking communication",HIRE
+TRAIN_350,"Candidate Profile: weak communication, poor detail oriented, outstanding technical skills, bad critical thinking, excellent task prioritization",HIRE
+TRAIN_351,"Candidate Profile: inconsistent teamwork, excellent technical skills, reliable detail oriented, bad task prioritization, outstanding problem solving",HIRE
+TRAIN_352,"Candidate Profile: lacking task prioritization, reliable quick learner, lacking adaptability, bad leadership, excellent communication",HIRE
+TRAIN_353,"Candidate Profile: good technical skills, bad teamwork, outstanding problem solving, lacking critical thinking, weak adaptability",NOT HIRE
+TRAIN_354,"Candidate Profile: poor technical skills, excellent teamwork, bad quick learner, weak problem solving, weak critical thinking",HIRE
+TRAIN_355,"Candidate Profile: poor critical thinking, weak teamwork, excellent leadership, outstanding technical skills, bad willing to learn",HIRE
+TRAIN_356,"Candidate Profile: weak task prioritization, lacking problem solving, good critical thinking, good creativity, excellent leadership",HIRE
+TRAIN_357,"Candidate Profile: lacking adaptability, good willing to learn, outstanding teamwork, weak critical thinking, strong task prioritization",HIRE
+TRAIN_358,"Candidate Profile: poor leadership, lacking detail oriented, weak willing to learn, weak critical thinking, strong problem solving",HIRE
+TRAIN_359,"Candidate Profile: bad quick learner, inconsistent detail oriented, bad task prioritization, strong technical skills, outstanding problem solving",HIRE
+TRAIN_360,"Candidate Profile: excellent technical skills, excellent quick learner, reliable task prioritization, lacking creativity, poor adaptability",HIRE
+TRAIN_361,"Candidate Profile: weak creativity, excellent willing to learn, weak technical skills, weak teamwork, excellent problem solving",HIRE
+TRAIN_362,"Candidate Profile: lacking communication, lacking quick learner, inconsistent teamwork, excellent adaptability, good detail oriented",HIRE
+TRAIN_363,"Candidate Profile: good adaptability, good detail oriented, reliable communication, lacking teamwork, inconsistent leadership",NOT HIRE
+TRAIN_364,"Candidate Profile: lacking detail oriented, poor problem solving, weak creativity, weak teamwork, poor task prioritization",NOT HIRE
+TRAIN_365,"Candidate Profile: reliable creativity, lacking problem solving, outstanding technical skills, outstanding critical thinking, weak communication",NOT HIRE
+TRAIN_366,"Candidate Profile: inconsistent task prioritization, poor technical skills, outstanding willing to learn, bad teamwork, weak problem solving",NOT HIRE
+TRAIN_367,"Candidate Profile: outstanding technical skills, reliable willing to learn, lacking leadership, lacking task prioritization, outstanding quick learner",NOT HIRE
+TRAIN_368,"Candidate Profile: inconsistent detail oriented, strong critical thinking, excellent willing to learn, inconsistent technical skills, strong adaptability",HIRE
+TRAIN_369,"Candidate Profile: outstanding communication, bad willing to learn, excellent quick learner, poor problem solving, weak critical thinking",HIRE
+TRAIN_370,"Candidate Profile: bad problem solving, weak willing to learn, lacking technical skills, inconsistent adaptability, weak critical thinking",NOT HIRE
+TRAIN_371,"Candidate Profile: outstanding problem solving, poor communication, good detail oriented, reliable leadership, strong critical thinking",HIRE
+TRAIN_372,"Candidate Profile: excellent critical thinking, excellent teamwork, lacking problem solving, outstanding leadership, inconsistent quick learner",HIRE
+TRAIN_373,"Candidate Profile: bad creativity, excellent detail oriented, inconsistent communication, good problem solving, inconsistent quick learner",HIRE
+TRAIN_374,"Candidate Profile: inconsistent problem solving, weak technical skills, reliable communication, reliable teamwork, inconsistent detail oriented",NOT HIRE
+TRAIN_375,"Candidate Profile: weak creativity, lacking quick learner, poor task prioritization, strong adaptability, good leadership",HIRE
+TRAIN_376,"Candidate Profile: reliable creativity, weak problem solving, inconsistent critical thinking, lacking communication, reliable technical skills",NOT HIRE
+TRAIN_377,"Candidate Profile: weak teamwork, lacking critical thinking, good adaptability, inconsistent task prioritization, weak communication",NOT HIRE
+TRAIN_378,"Candidate Profile: inconsistent detail oriented, weak creativity, outstanding problem solving, outstanding task prioritization, good willing to learn",NOT HIRE
+TRAIN_379,"Candidate Profile: outstanding critical thinking, strong quick learner, inconsistent communication, bad detail oriented, poor technical skills",HIRE
+TRAIN_380,"Candidate Profile: weak problem solving, outstanding task prioritization, good critical thinking, reliable quick learner, outstanding creativity",NOT HIRE
+TRAIN_381,"Candidate Profile: excellent creativity, excellent detail oriented, lacking adaptability, poor teamwork, good willing to learn",HIRE
+TRAIN_382,"Candidate Profile: excellent willing to learn, outstanding critical thinking, inconsistent technical skills, poor quick learner, bad problem solving",HIRE
+TRAIN_383,"Candidate Profile: strong detail oriented, excellent quick learner, weak willing to learn, bad problem solving, outstanding task prioritization",HIRE
+TRAIN_384,"Candidate Profile: inconsistent creativity, lacking detail oriented, poor communication, lacking critical thinking, outstanding task prioritization",NOT HIRE
+TRAIN_385,"Candidate Profile: outstanding technical skills, inconsistent critical thinking, outstanding task prioritization, excellent willing to learn, strong communication",HIRE
+TRAIN_386,"Candidate Profile: poor communication, inconsistent critical thinking, excellent teamwork, reliable creativity, weak adaptability",HIRE
+TRAIN_387,"Candidate Profile: good creativity, excellent quick learner, excellent leadership, reliable willing to learn, strong critical thinking",HIRE
+TRAIN_388,"Candidate Profile: outstanding willing to learn, good detail oriented, good adaptability, inconsistent teamwork, bad leadership",NOT HIRE
+TRAIN_389,"Candidate Profile: good detail oriented, outstanding willing to learn, reliable adaptability, weak task prioritization, outstanding communication",NOT HIRE
+TRAIN_390,"Candidate Profile: bad communication, good technical skills, outstanding willing to learn, excellent teamwork, weak task prioritization",HIRE
+TRAIN_391,"Candidate Profile: strong willing to learn, bad leadership, lacking adaptability, bad communication, outstanding task prioritization",HIRE
+TRAIN_392,"Candidate Profile: inconsistent communication, good detail oriented, excellent technical skills, lacking task prioritization, excellent quick learner",HIRE
+TRAIN_393,"Candidate Profile: inconsistent teamwork, poor detail oriented, excellent adaptability, poor creativity, good technical skills",HIRE
+TRAIN_394,"Candidate Profile: good critical thinking, inconsistent technical skills, bad problem solving, strong leadership, strong task prioritization",HIRE
+TRAIN_395,"Candidate Profile: weak creativity, lacking adaptability, bad leadership, weak problem solving, poor critical thinking",NOT HIRE
+TRAIN_396,"Candidate Profile: inconsistent communication, reliable quick learner, reliable creativity, reliable critical thinking, strong willing to learn",HIRE
+TRAIN_397,"Candidate Profile: good creativity, excellent critical thinking, strong quick learner, reliable teamwork, poor willing to learn",HIRE
+TRAIN_398,"Candidate Profile: lacking critical thinking, good task prioritization, bad willing to learn, weak leadership, bad detail oriented",NOT HIRE
+TRAIN_399,"Candidate Profile: bad adaptability, reliable leadership, inconsistent communication, excellent problem solving, good detail oriented",HIRE
+TRAIN_400,"Candidate Profile: weak creativity, excellent critical thinking, outstanding willing to learn, good quick learner, strong leadership",HIRE
+TRAIN_401,"Candidate Profile: bad critical thinking, bad willing to learn, bad teamwork, inconsistent problem solving, poor communication",NOT HIRE
+TRAIN_402,"Candidate Profile: good problem solving, excellent willing to learn, strong creativity, outstanding teamwork, strong leadership",HIRE
+TRAIN_403,"Candidate Profile: outstanding technical skills, poor communication, weak problem solving, strong quick learner, bad leadership",HIRE
+TRAIN_404,"Candidate Profile: poor willing to learn, poor creativity, outstanding leadership, lacking problem solving, weak critical thinking",NOT HIRE
+TRAIN_405,"Candidate Profile: good detail oriented, excellent quick learner, weak leadership, weak teamwork, outstanding task prioritization",HIRE
+TRAIN_406,"Candidate Profile: bad technical skills, poor task prioritization, bad willing to learn, outstanding quick learner, outstanding communication",NOT HIRE
+TRAIN_407,"Candidate Profile: bad quick learner, poor leadership, outstanding creativity, poor detail oriented, good adaptability",NOT HIRE
+TRAIN_408,"Candidate Profile: poor creativity, poor quick learner, excellent willing to learn, excellent communication, poor detail oriented",HIRE
+TRAIN_409,"Candidate Profile: excellent detail oriented, bad critical thinking, outstanding leadership, good communication, bad creativity",HIRE
+TRAIN_410,"Candidate Profile: lacking critical thinking, strong communication, lacking detail oriented, inconsistent adaptability, outstanding technical skills",HIRE
+TRAIN_411,"Candidate Profile: reliable creativity, good adaptability, good willing to learn, outstanding teamwork, bad leadership",NOT HIRE
+TRAIN_412,"Candidate Profile: inconsistent problem solving, inconsistent leadership, excellent critical thinking, excellent detail oriented, weak creativity",HIRE
+TRAIN_413,"Candidate Profile: excellent communication, outstanding quick learner, reliable leadership, good adaptability, inconsistent technical skills",HIRE
+TRAIN_414,"Candidate Profile: strong quick learner, lacking creativity, excellent detail oriented, strong technical skills, bad willing to learn",HIRE
+TRAIN_415,"Candidate Profile: inconsistent technical skills, outstanding adaptability, outstanding creativity, poor task prioritization, weak critical thinking",NOT HIRE
+TRAIN_416,"Candidate Profile: bad adaptability, poor willing to learn, weak teamwork, weak task prioritization, bad detail oriented",NOT HIRE
+TRAIN_417,"Candidate Profile: outstanding critical thinking, strong communication, bad teamwork, outstanding detail oriented, outstanding quick learner",HIRE
+TRAIN_418,"Candidate Profile: poor quick learner, outstanding adaptability, poor detail oriented, excellent communication, inconsistent technical skills",HIRE
+TRAIN_419,"Candidate Profile: excellent technical skills, excellent willing to learn, inconsistent teamwork, weak task prioritization, strong problem solving",HIRE
+TRAIN_420,"Candidate Profile: poor leadership, poor adaptability, outstanding critical thinking, reliable problem solving, weak detail oriented",NOT HIRE
+TRAIN_421,"Candidate Profile: reliable communication, bad willing to learn, weak technical skills, excellent quick learner, strong creativity",HIRE
+TRAIN_422,"Candidate Profile: weak problem solving, good willing to learn, excellent adaptability, inconsistent critical thinking, good teamwork",HIRE
+TRAIN_423,"Candidate Profile: weak quick learner, inconsistent teamwork, poor detail oriented, weak adaptability, poor task prioritization",NOT HIRE
+TRAIN_424,"Candidate Profile: lacking teamwork, outstanding task prioritization, good technical skills, inconsistent communication, weak leadership",NOT HIRE
+TRAIN_425,"Candidate Profile: excellent quick learner, excellent teamwork, reliable task prioritization, outstanding creativity, strong detail oriented",HIRE
+TRAIN_426,"Candidate Profile: poor creativity, poor teamwork, outstanding leadership, bad detail oriented, bad technical skills",NOT HIRE
+TRAIN_427,"Candidate Profile: inconsistent technical skills, bad leadership, bad critical thinking, weak communication, lacking creativity",NOT HIRE
+TRAIN_428,"Candidate Profile: lacking technical skills, poor adaptability, poor quick learner, poor communication, outstanding creativity",NOT HIRE
+TRAIN_429,"Candidate Profile: outstanding leadership, lacking task prioritization, strong creativity, outstanding teamwork, weak problem solving",HIRE
+TRAIN_430,"Candidate Profile: bad leadership, poor critical thinking, excellent teamwork, reliable quick learner, poor willing to learn",HIRE
+TRAIN_431,"Candidate Profile: lacking problem solving, reliable teamwork, lacking communication, outstanding creativity, inconsistent leadership",NOT HIRE
+TRAIN_432,"Candidate Profile: outstanding detail oriented, poor critical thinking, strong creativity, strong communication, good willing to learn",HIRE
+TRAIN_433,"Candidate Profile: excellent willing to learn, inconsistent technical skills, outstanding creativity, excellent communication, inconsistent quick learner",HIRE
+TRAIN_434,"Candidate Profile: good leadership, bad task prioritization, weak quick learner, strong teamwork, bad creativity",HIRE
+TRAIN_435,"Candidate Profile: outstanding problem solving, good communication, poor critical thinking, bad technical skills, strong adaptability",HIRE
+TRAIN_436,"Candidate Profile: inconsistent teamwork, outstanding problem solving, good task prioritization, inconsistent quick learner, poor detail oriented",NOT HIRE
+TRAIN_437,"Candidate Profile: lacking task prioritization, poor leadership, inconsistent communication, reliable problem solving, poor technical skills",NOT HIRE
+TRAIN_438,"Candidate Profile: inconsistent leadership, excellent quick learner, inconsistent problem solving, lacking adaptability, inconsistent willing to learn",HIRE
+TRAIN_439,"Candidate Profile: lacking task prioritization, reliable detail oriented, reliable teamwork, bad creativity, strong critical thinking",HIRE
+TRAIN_440,"Candidate Profile: bad willing to learn, bad communication, outstanding quick learner, good leadership, outstanding problem solving",NOT HIRE
+TRAIN_441,"Candidate Profile: inconsistent communication, inconsistent technical skills, inconsistent creativity, strong teamwork, poor task prioritization",HIRE
+TRAIN_442,"Candidate Profile: reliable willing to learn, lacking leadership, good communication, strong task prioritization, poor creativity",HIRE
+TRAIN_443,"Candidate Profile: lacking adaptability, poor quick learner, poor communication, weak willing to learn, reliable detail oriented",NOT HIRE
+TRAIN_444,"Candidate Profile: good technical skills, strong willing to learn, inconsistent detail oriented, weak communication, poor teamwork",HIRE
+TRAIN_445,"Candidate Profile: excellent detail oriented, strong communication, reliable task prioritization, bad quick learner, inconsistent adaptability",HIRE
+TRAIN_446,"Candidate Profile: bad detail oriented, strong willing to learn, strong task prioritization, reliable creativity, lacking quick learner",HIRE
+TRAIN_447,"Candidate Profile: inconsistent critical thinking, weak technical skills, weak quick learner, inconsistent leadership, poor teamwork",NOT HIRE
+TRAIN_448,"Candidate Profile: bad leadership, bad teamwork, reliable creativity, excellent detail oriented, outstanding adaptability",HIRE
+TRAIN_449,"Candidate Profile: strong leadership, lacking task prioritization, excellent quick learner, lacking willing to learn, weak creativity",HIRE
+TRAIN_450,"Candidate Profile: bad communication, poor willing to learn, outstanding critical thinking, reliable problem solving, good task prioritization",NOT HIRE
+TRAIN_451,"Candidate Profile: good adaptability, reliable communication, reliable detail oriented, strong technical skills, poor creativity",HIRE
+TRAIN_452,"Candidate Profile: weak detail oriented, outstanding critical thinking, lacking problem solving, outstanding leadership, good creativity",NOT HIRE
+TRAIN_453,"Candidate Profile: bad communication, inconsistent teamwork, bad detail oriented, outstanding creativity, excellent technical skills",HIRE
+TRAIN_454,"Candidate Profile: reliable problem solving, outstanding detail oriented, strong creativity, bad technical skills, poor task prioritization",HIRE
+TRAIN_455,"Candidate Profile: poor creativity, outstanding critical thinking, lacking quick learner, excellent communication, outstanding technical skills",HIRE
+TRAIN_456,"Candidate Profile: lacking task prioritization, good willing to learn, inconsistent quick learner, reliable leadership, excellent communication",HIRE
+TRAIN_457,"Candidate Profile: lacking detail oriented, strong teamwork, bad creativity, reliable task prioritization, excellent technical skills",HIRE
+TRAIN_458,"Candidate Profile: outstanding communication, weak problem solving, weak willing to learn, weak leadership, lacking technical skills",NOT HIRE
+TRAIN_459,"Candidate Profile: outstanding leadership, strong detail oriented, poor communication, weak problem solving, poor task prioritization",HIRE
+TRAIN_460,"Candidate Profile: lacking technical skills, poor problem solving, strong adaptability, inconsistent willing to learn, excellent leadership",HIRE
+TRAIN_461,"Candidate Profile: inconsistent critical thinking, weak creativity, poor detail oriented, lacking problem solving, excellent communication",HIRE
+TRAIN_462,"Candidate Profile: strong quick learner, outstanding communication, bad detail oriented, strong technical skills, good willing to learn",HIRE
+TRAIN_463,"Candidate Profile: reliable problem solving, outstanding teamwork, bad task prioritization, poor communication, lacking adaptability",NOT HIRE
+TRAIN_464,"Candidate Profile: inconsistent leadership, weak task prioritization, lacking willing to learn, weak teamwork, bad creativity",NOT HIRE
+TRAIN_465,"Candidate Profile: bad adaptability, excellent teamwork, reliable detail oriented, strong leadership, weak technical skills",HIRE
+TRAIN_466,"Candidate Profile: bad communication, poor detail oriented, outstanding critical thinking, poor willing to learn, lacking task prioritization",NOT HIRE
+TRAIN_467,"Candidate Profile: lacking quick learner, good communication, excellent leadership, poor task prioritization, weak problem solving",HIRE
+TRAIN_468,"Candidate Profile: good willing to learn, excellent leadership, weak task prioritization, lacking communication, excellent technical skills",HIRE
+TRAIN_469,"Candidate Profile: inconsistent teamwork, good communication, bad problem solving, weak creativity, strong task prioritization",HIRE
+TRAIN_470,"Candidate Profile: lacking task prioritization, excellent technical skills, bad leadership, poor detail oriented, excellent adaptability",HIRE
+TRAIN_471,"Candidate Profile: lacking leadership, excellent technical skills, lacking willing to learn, excellent detail oriented, reliable communication",HIRE
+TRAIN_472,"Candidate Profile: good willing to learn, excellent detail oriented, inconsistent critical thinking, good leadership, strong technical skills",HIRE
+TRAIN_473,"Candidate Profile: excellent communication, weak creativity, good willing to learn, excellent adaptability, poor problem solving",HIRE
+TRAIN_474,"Candidate Profile: strong task prioritization, outstanding teamwork, poor creativity, strong critical thinking, excellent detail oriented",HIRE
+TRAIN_475,"Candidate Profile: bad creativity, poor problem solving, reliable leadership, poor willing to learn, poor critical thinking",NOT HIRE
+TRAIN_476,"Candidate Profile: inconsistent leadership, bad communication, excellent creativity, good quick learner, weak willing to learn",HIRE
+TRAIN_477,"Candidate Profile: bad problem solving, inconsistent teamwork, outstanding creativity, lacking leadership, reliable task prioritization",NOT HIRE
+TRAIN_478,"Candidate Profile: excellent willing to learn, excellent task prioritization, lacking critical thinking, excellent adaptability, reliable quick learner",HIRE
+TRAIN_479,"Candidate Profile: weak adaptability, reliable creativity, bad detail oriented, bad teamwork, weak task prioritization",NOT HIRE
+TRAIN_480,"Candidate Profile: weak problem solving, reliable technical skills, excellent creativity, lacking willing to learn, outstanding adaptability",HIRE
+TRAIN_481,"Candidate Profile: good creativity, weak leadership, strong teamwork, inconsistent adaptability, inconsistent technical skills",HIRE
+TRAIN_482,"Candidate Profile: inconsistent technical skills, strong task prioritization, poor problem solving, good communication, weak detail oriented",HIRE
+TRAIN_483,"Candidate Profile: reliable communication, lacking detail oriented, reliable adaptability, excellent quick learner, outstanding teamwork",HIRE
+TRAIN_484,"Candidate Profile: excellent detail oriented, poor creativity, inconsistent teamwork, outstanding willing to learn, weak problem solving",HIRE
+TRAIN_485,"Candidate Profile: bad willing to learn, lacking detail oriented, bad quick learner, poor communication, reliable technical skills",NOT HIRE
+TRAIN_486,"Candidate Profile: lacking leadership, inconsistent willing to learn, outstanding adaptability, inconsistent technical skills, weak communication",NOT HIRE
+TRAIN_487,"Candidate Profile: excellent teamwork, lacking creativity, inconsistent critical thinking, reliable willing to learn, weak adaptability",HIRE
+TRAIN_488,"Candidate Profile: strong technical skills, reliable quick learner, reliable critical thinking, weak problem solving, reliable leadership",HIRE
+TRAIN_489,"Candidate Profile: excellent quick learner, weak willing to learn, bad teamwork, strong adaptability, weak critical thinking",HIRE
+TRAIN_490,"Candidate Profile: lacking technical skills, excellent quick learner, reliable teamwork, outstanding leadership, outstanding critical thinking",HIRE
+TRAIN_491,"Candidate Profile: outstanding adaptability, excellent detail oriented, poor quick learner, lacking technical skills, reliable teamwork",HIRE
+TRAIN_492,"Candidate Profile: lacking problem solving, inconsistent leadership, strong critical thinking, strong communication, good quick learner",HIRE
+TRAIN_493,"Candidate Profile: bad teamwork, reliable task prioritization, bad leadership, excellent critical thinking, inconsistent adaptability",HIRE
+TRAIN_494,"Candidate Profile: weak problem solving, lacking critical thinking, lacking willing to learn, reliable teamwork, excellent technical skills",HIRE
+TRAIN_495,"Candidate Profile: excellent creativity, outstanding technical skills, excellent task prioritization, inconsistent communication, good teamwork",HIRE
+TRAIN_496,"Candidate Profile: poor technical skills, outstanding task prioritization, reliable adaptability, reliable creativity, bad teamwork",NOT HIRE
+TRAIN_497,"Candidate Profile: outstanding quick learner, reliable teamwork, weak critical thinking, strong problem solving, outstanding detail oriented",HIRE
+TRAIN_498,"Candidate Profile: lacking technical skills, weak problem solving, inconsistent critical thinking, poor communication, outstanding task prioritization",NOT HIRE
+TRAIN_499,"Candidate Profile: lacking problem solving, weak communication, outstanding quick learner, strong adaptability, poor critical thinking",HIRE
+TRAIN_500,"Candidate Profile: reliable communication, lacking critical thinking, good task prioritization, excellent detail oriented, outstanding willing to learn",HIRE
